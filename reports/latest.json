@@ -1,0 +1,20 @@
+{
+  "builtFor": "Base",
+  "network": "base-sepolia",
+  "chainId": 84532,
+  "explorer": "https://sepolia.basescan.org",
+  "rpcUrl": "https://sepolia.base.org",
+  "generatedAt": "ISO_TIMESTAMP",
+  "wallet": {
+    "connected": false,
+    "addresses": []
+  },
+  "balances": [],
+  "chain": {
+    "latestBlock": "0",
+    "blockLink": "https://sepolia.basescan.org/block/0",
+    "timestampIso": "1970-01-01T00:00:00.000Z",
+    "gasPriceGwei": "0.000"
+  },
+  "bytecode": []
+}
